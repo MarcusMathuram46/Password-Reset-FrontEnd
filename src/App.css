@@ -13,13 +13,13 @@
     width: 500px;
     border: 1px solid rgb(0, 179, 255);
     padding-bottom: 20px;
-    background: linear-gradient(45deg, #f5ecec, #0d79c1);
+    background: linear-gradient(45deg, #c360d9, #cdc8c8);
     transition: background 0.3s ease;
     border-radius: 10px;
 }
 
 .inside:hover {
-    background: linear-gradient(45deg, #b84ed0, #cdc8c8);
+    background: linear-gradient(45deg, #f5ecec, #0d79c1);
 }
 body{
     background: linear-gradient(45deg, #f5ecec, #3d0dc1)
